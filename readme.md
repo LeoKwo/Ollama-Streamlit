@@ -14,3 +14,6 @@
 - ```streamlit run main.py``` creates a new session that runs on port *8501*. You can change this by review Streamlit's documentation.
 - Chat on!
 - You can also run ```streamlit run main-react-agent.py``` for an agent with DuckDuckGo search capability.
+### Screenshot
+You can even ask questions typically censored by other LLMs
+![pic1](./Screenshot1.png)
